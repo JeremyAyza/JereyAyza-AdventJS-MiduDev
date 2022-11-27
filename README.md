@@ -36,4 +36,4 @@ Mis soluciones para los [25 días de retos con JavaScript](https://adventjs.dev/
 
 ## Gracias [midudev](https://twitter.com/midudev) :heart:
 
-[Linkedin](https://www.linkedin.com/in/jeremyayzamatias/) 
+Jeremy Ayza - [Linkedin](https://www.linkedin.com/in/jeremyayzamatias/) 
